@@ -58,6 +58,9 @@ body {
 .lor-yellow {
   background-color: #ffcd00;
 }
+.lor-border-red {
+  border-top: 8px red solid;
+}
 @layer utilities {
   .text-balance {
     text-wrap: balance;

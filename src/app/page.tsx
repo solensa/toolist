@@ -60,7 +60,10 @@ export default function Home() {
   };
   return (
     <>
-      <main className="white-bg flex min-h-screen flex-col">
+      {/* <div class="rjc-revamp" style="padding: 0 30px; border-top: 8px red solid; background-color: white;"></div> */}
+
+      <main className="white-bg flex min-h-screen flex-col lor-border-red p-[30px]">
+        {/* <div className="divide-y divide-red-200"></div> */}
         <div className="flex flex-row mb-12">
           <input
             className="w-6/12 md:w-5/12 h-12 p-4 rounded-l sb-grey"
@@ -75,7 +78,7 @@ export default function Home() {
         </div>
         <ul className="w-11/12 md:w-[918px]">
           {filteredTools.map((tool) => (
-            <li key={tool.id} className="box-content p-4 rounded mt-1">
+            <li key={tool.id} className="box-content p-4 pl-0 rounded mt-1">
               <div className="flex justify-between">
                 <div className="min-w-36 h-36 mr-10 flex flex-col rounded strong sb-grey justify-center">
                   <img className="min-w-20 h-20" src={tool.pic} alt="lorlearn" />
