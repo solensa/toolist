@@ -9,8 +9,9 @@ const tools = [
     name: "LOR Learn",
     exp: "One stop shop for all things learning.",
     desc: "Find all things to do with learning on LOR Learn, including 20,000 digital courses from LinkedIn Learning and our internal specialists, Guilds, Mentors and more.",
-    link: "ok",
-    guideLink: "ok",
+    link: "https://ubazyytfsaddefals8d5u8.core12.workzone.ondemand.com/home/jtrYqtnCAAZTz7H7xwAPWf",
+    guideLink:
+      "https://laingorourke-my.sharepoint.com/:v:/p/rclaridge/ETf2ycmx16VPu5zuMqNUgLQBxxjkocOgHx4FTFNTn-o-eQ?e=anYUA4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D",
   },
   {
     id: "2",
