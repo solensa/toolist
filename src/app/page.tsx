@@ -26,7 +26,7 @@ const tools = [
     pic: "/3.svg",
     name: "Expenses",
     exp: "Manage expenses you've incurred.",
-    desc: "Manage company business expenses.",
+    desc: "Claim back business expenses such as travel and overnight expenses. Review the Expense policy to check eligibility and further guidance on expense claims.",
     link: "https://mingle-portal.inforcloudsuite.com/LAINGOROURKE_PRD",
     guideLink:
       "https://laingorourke.sharepoint.com/sites/igms-eu/employeeservices/Pages/Expenses_and_allowances.aspx",
@@ -130,7 +130,7 @@ const tools = [
     pic: "/14.svg",
     name: "Book Travel",
     exp: "Book business travel.",
-    desc: "Employees often have a requirement to travel on behalf of the company, this section of the iGMS contains information and guidance on how travel must be booked and processed.",
+    desc: "Book travel and overnight accommodation. Please aim to do this 5 days before you are due to travel as travel bookings need to be approved by your manager/Business Unit approver.",
     link: "https://travelrequest.web/",
     guideLink:
       "https://laingorourke.sharepoint.com/sites/igms-eu/employeeservices/Pages/Travel_and_Hotel_Accommodation.aspx",
@@ -140,7 +140,7 @@ const tools = [
     pic: "/15.svg",
     name: "Business Mileage",
     exp: "Claim back mileage used as part of work.",
-    desc: "Find the details you need to claim back mileage.",
+    desc: "The business mileage system is for employees to record journeys attributed to being in receipt of a fuel card.",
     link: "https://bmr.web/",
     guideLink: "",
   },
