@@ -9,7 +9,7 @@ const tools = [
     exp: "Your one-stop-shop for all things learning.",
     desc: "Find all things to do with learning on LOR Learn, including 20,000 digital courses from LinkedIn Learning and our internal specialists, Guilds, Mentors and more.",
     link: "https://lorprod.workzonehr.cfapps.eu10.hana.ondemand.com/site#workzone-home&/home/jtrYqtnCAAZTz7H7xwAPWf",
-    guidelink: "ll-revamp-v2 (1).mp4",
+    guideLink: "ll-revamp-v2 (1).mp4",
   },
   {
     id: "2",
@@ -18,7 +18,7 @@ const tools = [
     exp: "Manage orders, invoicing and payments.",
     desc: "COINS is the business' core functions system for orders, invoicing, and payments. All project cost and sales transactions are managed through COINS. ",
     link: "https://goscoinsprod01/cgi-bin/oalive/wologin.p",
-    guidelink:
+    guideLink:
       "https://laingorourke.sharepoint.com/sites/igms-eu/projectlifecycle/Pages/COINS.aspx",
   },
   {
@@ -28,7 +28,7 @@ const tools = [
     exp: "Manage expenses you've incurred.",
     desc: "Manage company business expenses.",
     link: "https://mingle-portal.inforcloudsuite.com/LAINGOROURKE_PRD",
-    guidelink:
+    guideLink:
       "https://laingorourke.sharepoint.com/sites/igms-eu/employeeservices/Pages/Expenses_and_allowances.aspx",
   },
   {
@@ -38,7 +38,7 @@ const tools = [
     exp: "Book holiday and check your pay.",
     desc: "Use this system to book annual leave and to also check your pay.",
     link: "https://itrentess.laingorourke.com/",
-    guidelink:
+    guideLink:
       "https://laingorourke.sharepoint.com/sites/igms-eu/employeeservices/Pages/Annual%20leave%20-%20iTrent%20Self%20Service.aspx",
   },
   {
@@ -48,7 +48,7 @@ const tools = [
     exp: "How to create an optimal work environment.",
     desc: "This Playbook provides standards to create the highest possible levels of safety, health, wellbeing and to work responsibly & sustainably. It's split into how we enable and deliver work, and critical controls.",
     link: "https://laingorourke.sharepoint.com/sites/dep",
-    guidelink: "https://vimeo.com/674325389/6417ec0cdc?share=copy",
+    guideLink: "https://vimeo.com/674325389/6417ec0cdc?share=copy",
   },
   {
     id: "6",
@@ -57,7 +57,7 @@ const tools = [
     exp: "A single source of truth for all LOR information.",
     desc: "The integrated group management system (iGMS) contains policies, procedures & guidance on how we work and learn and also acts as a knowledge network.",
     link: "https://laingorourke.sharepoint.com/sites/igms-eu/",
-    guidelink: "https://laingorourke.sharepoint.com/sites/igms-eu/Pages/iGMSSupport.aspx",
+    guideLink: "https://laingorourke.sharepoint.com/sites/igms-eu/Pages/iGMSSupport.aspx",
   },
   {
     id: "7",
@@ -66,7 +66,7 @@ const tools = [
     exp: "Get IT support.",
     desc: "The IT Self Service portal is the system through which users can gain support with their communication and technology requirements.",
     link: "https://laingorourke.service-now.com/sp",
-    guidelink:
+    guideLink:
       "https://laingorourke.sharepoint.com/sites/igms-eu/employeeservices/Pages/IT_Self_Service_Now.aspx",
   },
   {
@@ -76,7 +76,7 @@ const tools = [
     exp: "Find emplyee discounts and tips on wellbeing.",
     desc: "Our Employee Discounts programme recognises the hard work of our people by providing a huge range of employee discounts and savings. ",
     link: "http://www.lifeatlor.com/",
-    guidelink: "",
+    guideLink: "",
   },
   {
     id: "9",
@@ -85,7 +85,7 @@ const tools = [
     exp: "Our visual identity guidelines.",
     desc: "Find all of LOR's branding guidelines here, including speaking style, publication lay outs, graphics, fonts, logos and the brand colours.",
     link: "https://www.laingorourke.com/media/tzofdtre/0775_lor-identity-guidelines_edition-7-feb22.pdf",
-    guidelink: "",
+    guideLink: "",
   },
   {
     id: "10",
@@ -94,7 +94,7 @@ const tools = [
     exp: "Find performance management, goals, learning and other People activities.",
     desc: "Support core HR and payroll, talent management, HR analytics and workforce planning, and employee experience management.",
     link: "https://performancemanager5.successfactors.eu/sf/home?company=LORProd#Shell-home",
-    guidelink: "",
+    guideLink: "",
   },
   {
     id: "11",
@@ -103,7 +103,7 @@ const tools = [
     exp: "Fill out your timesheet.",
     desc: "On or before payday each month a timesheet needs to be accurately completed and submitted within the TIME system (link below) by every monthly paid member of staff.",
     link: "http://time.web/",
-    guidelink:
+    guideLink:
       "https://laingorourke.sharepoint.com/sites/igms-eu/employeeservices/Pages/Completing%20a%20timesheet.aspx",
   },
   {
@@ -113,7 +113,7 @@ const tools = [
     exp: "An internal social media platform.",
     desc: "Yammer is the private and secure enterprise social network through which Laing O’Rourke employees connect and collaborate.",
     link: "https://www.yammer.com/laingorourke.com.au/#/home",
-    guidelink:
+    guideLink:
       "https://laingorourke.sharepoint.com/sites/igms-eu/employeeservices/ProcedureDocuments/Communications-Employee/Yammer_one_page_guide.pdf#search=yammer",
   },
   {
@@ -123,7 +123,7 @@ const tools = [
     exp: "Book hospitality in our offices.",
     desc: "The site to go to to make hospitality requests such as coffee and food for workshops.",
     link: "https://hospitalityrequest.web/Home",
-    guidelink: "",
+    guideLink: "",
   },
   {
     id: "14",
@@ -132,7 +132,7 @@ const tools = [
     exp: "Book business travel.",
     desc: "Employees often have a requirement to travel on behalf of the company, this section of the iGMS contains information and guidance on how travel must be booked and processed.",
     link: "https://travelrequest.web/",
-    guidelink:
+    guideLink:
       "https://laingorourke.sharepoint.com/sites/igms-eu/employeeservices/Pages/Travel_and_Hotel_Accommodation.aspx",
   },
   {
@@ -142,7 +142,7 @@ const tools = [
     exp: "Claim back mileage used as part of work.",
     desc: "Find the details you need to claim back mileage.",
     link: "https://bmr.web/",
-    guidelink: "",
+    guideLink: "",
   },
   {
     id: "16",
@@ -151,7 +151,7 @@ const tools = [
     exp: "Quickly calculate the correct Approvers/Authoriser/Informeds.",
     desc: "Key corporate and project decisions can only be made by those named in LORs Corporate Delegation of Authority or Project Delegation of Authority. This shows who's accountable and responsible.",
     link: "https://doacalculator.web/Home",
-    guidelink:
+    guideLink:
       "https://laingorourke.sharepoint.com/sites/igms-eu/enterprise/Pages/Project_Delegation_of_Authority.aspx",
   },
   {
@@ -161,7 +161,7 @@ const tools = [
     exp: "Book events.",
     desc: "Book events.",
     link: "https://eventbooking.web/",
-    guidelink: "",
+    guideLink: "",
   },
   {
     id: "18",
@@ -170,7 +170,7 @@ const tools = [
     exp: "For facilities queries regarding any permanent UK location.",
     desc: "Facilities Management is responsible for providing clean, safe, comfortable and efficient work spaces for staff across Laing O’Rourke’s offices and locations.",
     link: "http://facilitiesrequest.web/",
-    guidelink:
+    guideLink:
       "https://laingorourke.sharepoint.com/sites/igms-eu/technicalinformation/Pages/FacilitiesManagement.aspx",
   },
   {
@@ -180,7 +180,7 @@ const tools = [
     exp: "Approve and authorise gateways.",
     desc: "The Gateway Authorisation Portal (GAP) enables efficient, semiautomated and confidential process for approval and authorisation of gateways and the storing of gateway evidence documents. ",
     link: "https://laingorourke.sharepoint.com/sites/igms-eu-gap",
-    guidelink:
+    guideLink:
       "https://laingorourke.sharepoint.com/sites/igms-eu/projectlifecycle/ProcedureDocuments/Gateway%20Governance%20for%20Projects/Gateway_Authorisation_Portal_User_Manual.pdf#search=gap",
   },
   {
@@ -190,7 +190,7 @@ const tools = [
     exp: "Register gifts you get.",
     desc: "This Register is designed to ensure that Laing O'Rourke is completely transparent in all of its business transactions.",
     link: "https://giftreg.web/TandC.aspx",
-    guidelink: "",
+    guideLink: "",
   },
   {
     id: "21",
@@ -199,7 +199,7 @@ const tools = [
     exp: "Record HS&E data and information.",
     desc: "​​​​​IMPACT​ is LORs HS&E data and information recording system, accessed via the internet. It acts as a single repository of HS&E data to allow consistent recording, action close-out, reporting, and analysis.",
     link: "https://impact.info-exchange.com/Default.aspx?ReturnUrl=%2fSecure%2fDefault.aspx",
-    guidelink:
+    guideLink:
       "https://laingorourke.sharepoint.com/sites/igms-eu/projectlifecycle/Pages/Impact.aspx",
   },
   {
@@ -209,7 +209,7 @@ const tools = [
     exp: "Find internal job vacancies.",
     desc: "Internal Job Board",
     link: "https://career.laingorourke.com/intranet/",
-    guidelink: "",
+    guideLink: "",
   },
   {
     id: "23",
@@ -218,7 +218,7 @@ const tools = [
     exp: "Share project materials and equipment. ",
     desc: "iSHARE is used to share materials and equipment in order to save money and waste. Whenever there is a need to acquire or dispose material and equipment, it might be done so with another site.",
     link: "http://ishare.web/",
-    guidelink:
+    guideLink:
       "https://laingorourke.sharepoint.com/sites/igms-eu/projectlifecycle/Pages/iShare.aspx",
   },
   {
@@ -228,7 +228,7 @@ const tools = [
     exp: "Get LOR approved images.",
     desc: "A site of LOR approved imagery taken from across our hubs and sites.",
     link: "https://www.lorimedia.co.uk/home.php",
-    guidelink: "",
+    guideLink: "",
   },
   {
     id: "25",
@@ -237,7 +237,7 @@ const tools = [
     exp: "Claim allowance when working far from home.",
     desc: "​​​​​​​Mobility Allowance is paid to site-based employees who are required to work at a site which is over 75km travel in each direction from their permanent home and who will be away for over four weeks.",
     link: "https://dtaandmobility.web/DTAAndMobilityDetails",
-    guidelink:
+    guideLink:
       "https://laingorourke.sharepoint.com/sites/igms-eu/employeeservices/Pages/Mobility_allowance.aspx",
   },
   {
@@ -247,7 +247,7 @@ const tools = [
     exp: "Approve a contract review report.",
     desc: "Projects except joint ventures/alliances must gain approval of the Contract Review report within Lunar as part of Gateway 9. Please note that it no longer needs to be issued in GAP. ",
     link: "https://lunar.laingorourke.com.au/",
-    guidelink:
+    guideLink:
       "https://laingorourke.sharepoint.com/sites/igms-eu/projectlifecycle/Pages/Gateway_9_Review.aspx",
   },
   {
@@ -257,7 +257,7 @@ const tools = [
     exp: "Assess an employees health and fitness for work. ",
     desc: "The Occupational Health Portal.",
     link: "https://www.myohportal.co.uk/suite/login/",
-    guidelink:
+    guideLink:
       "https://laingorourke.sharepoint.com/sites/igms-eu/employeeservices/ProcedureDocuments/Ensuring%20an%20employee%20is%20fit%20for%20work/OH_Portal_User_Guide.pdf#search=occupational%20health%20portal",
   },
   {
@@ -267,7 +267,7 @@ const tools = [
     exp: "The place to submit overtime.",
     desc: "On or before payday each month a timesheet needs to be accurately completed and submitted within the TIME system (link below) by every monthly paid member of staff.",
     link: "https://time.web/",
-    guidelink:
+    guideLink:
       "https://laingorourke.sharepoint.com/sites/igms-eu/employeeservices/Pages/Completing%20a%20timesheet.aspx",
   },
   {
@@ -277,7 +277,7 @@ const tools = [
     exp: "Share ideas that might be useful in other projects.",
     desc: "Productivity+ provides a place for ideas to be harvested and be made visible in a shared dashboard . An idea in Manchester can be shared rapidly with a project in say Sydney and vice versa.",
     link: "https://laingorourke.sharepoint.com/sites/igms-eu/projectlifecycle/Pages/Productivity_plus.aspx",
-    guidelink:
+    guideLink:
       "https://laingorourke.sharepoint.com/sites/igms-eu/projectlifecycle/Pages/Productivity_plus.aspx",
   },
   {
@@ -287,7 +287,7 @@ const tools = [
     exp: "Track customer relationships.",
     desc: "​​​​​​Salesforce is a cloud-based customer relationship and opportunity management system, which is used for tracking external opportunities from initial identification through to contract award.",
     link: "https://laingorourke.my.salesforce.com/",
-    guidelink:
+    guideLink:
       "https://laingorourke.sharepoint.com/sites/igms-eu/projectlifecycle/Pages/Salesforce.aspx",
   },
   {
@@ -297,7 +297,7 @@ const tools = [
     exp: "Manage supply chain relationships.",
     desc: "Enabling Contractors and their Supply Chain partners to collaboratively manage supply chain relationships, record key compliance details and work closer together.",
     link: "https://ww2.coinsiportal.com/user/login.php?camefromurl=%2Fcontractor%2Findex.php%3Fsection%3Dhome%26subsection%3Dsummary",
-    guidelink: "",
+    guideLink: "",
   },
   {
     id: "32",
@@ -306,7 +306,7 @@ const tools = [
     exp: "See and orde available plants.",
     desc: "Online plant order and hire tool. Users can quickly view lists of available plant, make requests for hire, and end hire periods.​",
     link: "http://select.web/",
-    guidelink:
+    guideLink:
       "https://laingorourke.sharepoint.com/sites/igms-eu/projectlifecycle/Pages/SelectHireDesk.aspx",
   },
 ];
