@@ -378,7 +378,7 @@ export default function Home() {
                         "text-[14px] font-bold w-3/12 mt-4 min-w-32 md:w-32 ml-3 h-9 p-2 rounded lor-yellow inline-block align-middle flex justify-center"
                       }
                     >
-                      Watch a guide
+                      Go to a guide
                     </a>
                   </div>
                 </div>
